@@ -1,0 +1,11 @@
+payload:
+  # Linkedin
+  - DOMAIN-SUFFIX,linkedin.com
+  - DOMAIN-KEYWORD,linkedin
+
+  # other
+  - DOMAIN-SUFFIX, vercel.app
+  - DOMAIN-SUFFIX, macyy.cn
+  - DOMAIN-SUFFIX, appstorrent.ru
+  - DOMAIN-SUFFIX, laosu.ml
+  
