@@ -12,3 +12,5 @@ payload:
   # register
   - DOMAIN-SUFFIX,arkoselabs.com
   - DOMAIN-SUFFIX,openaiapi-site.azureedge.net
+
+  - DOMAIN-SUFFIX, appstorrent.ru
