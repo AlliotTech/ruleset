@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,chatgpt.com
   - DOMAIN-SUFFIX,oaistatic.com
   - DOMAIN-SUFFIX,api-iam.intercom.io 
+  - DOMAIN-SUFFIX,gemini.google.com
   
   # payment
   - DOMAIN-SUFFIX,stripe.com
