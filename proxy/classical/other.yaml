@@ -2,6 +2,9 @@ payload:
   # Linkedin
   - DOMAIN-SUFFIX,linkedin.com
   - DOMAIN-KEYWORD,linkedin
+  - DOMAIN-SUFFIX,licdn.com
+  - DOMAIN-SUFFIX,bizographics.com
+  - DOMAIN-SUFFIX,linkedin.at
 
   # other
   - DOMAIN-SUFFIX, vercel.app
