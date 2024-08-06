@@ -6,11 +6,21 @@ payload:
   - DOMAIN-SUFFIX,bizographics.com
   - DOMAIN-SUFFIX,linkedin.at
 
-  # other
-  - DOMAIN-SUFFIX, vercel.app
-  - DOMAIN-SUFFIX, macyy.cn
-  - DOMAIN-SUFFIX, appstorrent.ru
-  - DOMAIN-SUFFIX, laosu.ml
+  # duckduckGo
+  - DOMAIN,improving.duckduckgo.com
+  - DOMAIN-SUFFIX,duckduckgo.com
 
-  - DOMAIN-SUFFIX, linux.do
-  - DOMAIN-SUFFIX, 52pojie.cn
+  # Discord
+  - DOMAIN-SUFFIX,discord.com
+  - DOMAIN-SUFFIX,discord.gg
+  - DOMAIN-SUFFIX,discord.media
+  - DOMAIN-SUFFIX,discordapp.com
+  - DOMAIN-SUFFIX,discordapp.net
+  - DOMAIN-SUFFIX,discordstatus.com
+  
+  # other
+  - DOMAIN-SUFFIX,vercel.app
+  - DOMAIN-SUFFIX,macyy.cn
+  - DOMAIN-SUFFIX,appstorrent.ru
+  - DOMAIN-SUFFIX,laosu.ml
+  - DOMAIN-SUFFIX,linux.do
