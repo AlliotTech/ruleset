@@ -7,6 +7,6 @@ payload:
   - '+.laosu.ml'
 
   # Google Play
-  - 'services.googleapis.cn'
+  - '+.googleapis.cn'
   - '+.xn--ngstr-lra8j.com'
   - '+.xn--ngstr-cn-8za9o.com'
