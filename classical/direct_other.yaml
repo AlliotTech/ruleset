@@ -4,3 +4,6 @@ payload:
   - DOMAIN-SUFFIX,soulteary.com
   - DOMAIN-SUFFIX,blog.dteam.top
   - DOMAIN-SUFFIX,www.williamlong.info
+
+  # AWS CN
+  - DOMAIN-SUFFIX,awsapps.cn
