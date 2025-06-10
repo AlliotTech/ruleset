@@ -8,3 +8,6 @@ payload:
   - '*.williamlong.info'
   - '*.dteam.top'
   - '*.soulteary.com'
+
+  # AWS CN
+  - '*.awsapps.cn'
