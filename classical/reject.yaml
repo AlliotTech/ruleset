@@ -12,3 +12,6 @@ payload:
   - DOMAIN-SUFFIX,sginput.qq.com
   - DOMAIN,otheve.beacon.qq.com
   - DOMAIN,oth.str.mdt.qq.com
+
+ # 补充vscode遥测
+  - DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
