@@ -1,0 +1,39 @@
+!
+! Title: AD blocker
+! Description: hosts file
+! Last modified: 2025-06-13T22:45:17.050Z
+!
+
+# [skyworth-cloud.com]
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 sky.fs.skysrt.com
+127.0.0.1 res.hoisin.coocaatv.com
+127.0.0.1 log.skysrt.com
+127.0.0.1 hoisin.coocaatv.com
+127.0.0.1 api.device.skysrt.com
+127.0.0.1 tvos.skysrt.com
+127.0.0.1 tc.skysrt.com
+127.0.0.1 status2.tvos.skysrt.com
+127.0.0.1 status.tvos.skysrt.com
+127.0.0.1 sky.tvos.skysrt.com
+127.0.0.1 push.tc.skysrt.com
+127.0.0.1 push.tvos.skysrt.com
+127.0.0.1 img.sky.fs.skysrt.com
+127.0.0.1 api.device.skysrt.com
+127.0.0.1 update01.skyworth-cloud.com
+127.0.0.1 sky.fs.skysrt.com
+127.0.0.1 res.hoisin.coocaatv.com
+127.0.0.1 log.skysrt.com
+127.0.0.1 hoisin.coocaatv.com
+127.0.0.1 api.device.skysrt.com
+
+127.0.0.1 tvos.skysrt.com
+127.0.0.1 tc.skysrt.com
+127.0.0.1 status2.tvos.skysrt.com
+127.0.0.1 status.tvos.skysrt.com
+127.0.0.1 sky.tvos.skysrt.com
+127.0.0.1 push.tc.skysrt.com
+127.0.0.1 push.tvos.skysrt.com
+127.0.0.1 img.sky.fs.skysrt.com
+
+127.0.0.1 api.device.skysrt.com
