@@ -39,6 +39,9 @@
 127.0.0.1 api.device.skysrt.com
 
 
+# [OPPO]
+127.0.0.1 ads.heytapmobi.com
+
 # Source: https://github.com/jdlingyu/ad-wars/blob/master/sha_ad_hosts 
 # Description: 
 #pkg=white.ad.web.com;【提示误伤】选择性不√以下子项
