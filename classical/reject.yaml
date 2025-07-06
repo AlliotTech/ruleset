@@ -15,3 +15,6 @@ payload:
 
  # 补充vscode遥测
   - DOMAIN-SUFFIX,telemetry.individual.githubcopilot.com
+
+ # 沉浸式翻译统计
+  - DOMAIN-SUFFIX,analytics.immersivetranslate.com
