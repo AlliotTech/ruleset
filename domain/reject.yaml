@@ -1,0 +1,17 @@
+payload:
+  # 搜狗输入法 直接REJECT可能会导致无法同步设置
+  - '+.get.sogou.com'
+  - '+.shouji.sogou.com'
+  - '+.account.sogou.com'
+  - '+.pinyin.sogou.com'
+  - '+.ime.sogou.com'
+  - '+.macime.sogou.com'
+  - '+.sginput.qq.com'
+  - 'otheve.beacon.qq.com'
+  - 'oth.str.mdt.qq.com'
+
+  # 补充vscode遥测
+  - '+.telemetry.individual.githubcopilot.com'
+
+  # 沉浸式翻译遥测
+  - '+.analytics.immersivetranslate.com'

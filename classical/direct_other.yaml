@@ -1,9 +1,0 @@
-payload:
-  # https://github.com/vernesong/OpenClash/discussions/3131
-  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-  - DOMAIN-SUFFIX,soulteary.com
-  - DOMAIN-SUFFIX,blog.dteam.top
-  - DOMAIN-SUFFIX,www.williamlong.info
-
-  # AWS CN
-  - DOMAIN-SUFFIX,awsapps.cn
