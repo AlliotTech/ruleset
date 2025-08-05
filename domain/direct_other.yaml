@@ -1,4 +1,9 @@
 payload:
+  # 快捷登录
+  - "localhost.ptlogin2.qq.com"
+  - "localhost.sec.qq.com"
+  - "localhost.work.weixin.qq.com"
+
   # Google Play
   - '+.googleapis.cn'
   - '*.xn--ngstr-lra8j.com'
