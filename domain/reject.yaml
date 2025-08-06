@@ -15,3 +15,6 @@ payload:
 
   # 沉浸式翻译遥测
   - '+.analytics.immersivetranslate.com'
+
+  # lobechat遥
+  - 'umami.lobehub-inc.cn'
