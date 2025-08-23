@@ -11,3 +11,6 @@ payload:
 
   # AWS CN
   - '*.awsapps.cn'
+
+  # ATK driver
+  - '*.atkgear.com'
