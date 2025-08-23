@@ -16,5 +16,28 @@ payload:
   # 沉浸式翻译遥测
   - '+.analytics.immersivetranslate.com'
 
-  # lobechat遥
+  # lobechat遥测
   - 'umami.lobehub-inc.cn'
+
+  # 运营商一键登录
+  # 中国移动
+  - 'config.cmpassport.com'
+  - 'www.cmpassport.com'
+  - 'wap.cmpassport.com'
+  - 'onekey1.cmpassport.com'
+  - 'log1.cmpassport.com'
+  - 'smsks1.cmpassport.com'
+  - 'verify.cmpassport.com'
+
+  # 中国联通
+  - 'opencloud.wostore.cn'
+  - 'auth.wosms.cn'
+  - 'id.mail.wo.cn'
+  - 'mdn.open.wo.cn'
+  - 'hmrz.wo.cn'
+  - 'nishub1.10010.com'
+  - 'enrichgw.10010.com'
+
+  # 中国电信
+  - 'id6.me'
+  - 'open.e.189.cn'
