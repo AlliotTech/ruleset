@@ -15,5 +15,6 @@ payload:
   # ATK driver
   - '*.atkgear.com'
 
-  # taotao talk
+  # HAM
   - '*.allptt.com'
+  - '*.nsptt.com'
