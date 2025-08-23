@@ -14,3 +14,6 @@ payload:
 
   # ATK driver
   - '*.atkgear.com'
+
+  # taotao talk
+  - '*.allptt.com'
