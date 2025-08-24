@@ -41,3 +41,7 @@ payload:
   # 中国电信
   - 'id6.me'
   - 'open.e.189.cn'
+
+
+  # 微信广告
+  - '*.wxs.qq.com'
