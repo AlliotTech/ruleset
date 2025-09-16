@@ -18,3 +18,7 @@ payload:
   # HAM
   - '*.allptt.com'
   - '*.nsptt.com'
+
+  # 图床
+  - '+.imgse.com'
+  - '+.ax1x.com'
