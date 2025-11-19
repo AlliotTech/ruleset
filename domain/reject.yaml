@@ -76,3 +76,6 @@ payload:
   - 'tmfsdk.m.qq.com'
   - 'tracking.miui.com'
   - 'update.avlyun.sec.miui.com'
+
+  # 农业银行检测
+  - 'msmp.abchina.com.cn'
