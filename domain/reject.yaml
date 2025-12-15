@@ -79,3 +79,7 @@ payload:
 
   # 农业银行检测
   - 'msmp.abchina.com.cn'
+
+  # 未知广告
+  - '+.xdrig.com'
+  - '+.getui.com'
