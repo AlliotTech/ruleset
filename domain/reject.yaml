@@ -48,7 +48,7 @@ payload:
   # 小米相关域名（部分域名可能会影响系统功能，请按需屏蔽）
   # 来源：https://clashios.app/rule/miuiprivacy
   - 'a0.app.xiaomi.com'
-  - 'api.installer.xiaomi.com'
+  - 'api.installer.xiaomi.com'  # 影响小米应用商店使用
   - 'api.jr.mi.com'
   - 'auth.be.sec.miui.com'
   - 'ccc.sys.miui.com'
@@ -76,6 +76,11 @@ payload:
   - 'tmfsdk.m.qq.com'
   - 'tracking.miui.com'
   - 'update.avlyun.sec.miui.com'
+
+  # 小米补充
+  - 'api.hybrid.xiaomi.com' # 小米快应用
+  - 'pgdt.gtimg.cn'         # 小米音乐广告
+  - '*.rdt.tfogc.com'       # 小米音乐广告
 
   # 农业银行检测
   - 'msmp.abchina.com.cn'
