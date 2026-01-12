@@ -80,7 +80,6 @@ payload:
   # 小米补充
   - 'api.hybrid.xiaomi.com' # 小米快应用
   - 'pgdt.gtimg.cn'         # 小米音乐广告
-  - '*.rdt.tfogc.com'       # 小米音乐广告
 
   # 农业银行检测
   - 'msmp.abchina.com.cn'
