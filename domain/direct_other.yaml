@@ -22,3 +22,6 @@ payload:
   # 图床
   - '+.imgse.com'
   - '+.ax1x.com'
+
+  # 沉浸式翻译
+  - '+.immersivetranslate.com'
