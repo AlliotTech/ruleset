@@ -1779,6 +1779,11 @@
 127.0.0.1 hzs9.cnzz.com
 127.0.0.1 hzvs1.cnzz.com
 127.0.0.1 pcookie.cnzz.com
+127.0.0.1 6.10121.xd.adanxing.com
+127.0.0.1 detective.mathpool.cn
+127.0.0.1 apd-pcdnwxstat.teg.tencent-cloud.net
+
+
 
 #pkg=adx.regex.com;通配符拦截（强力但难免存在误伤）
 127.0.0.1 *.irs01.com
