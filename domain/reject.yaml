@@ -75,6 +75,9 @@ payload:
   - 'ssl-cdn.static.browser.mi-img.com'
   - 'tmfsdk.m.qq.com'
   - 'tracking.miui.com'
+  - 'tracking.intl.miui.com'
+  - 'tracking.rus.miui.com'
+  - 'tracking.india.miui.com'
   - 'update.avlyun.sec.miui.com'
 
   # 小米补充
