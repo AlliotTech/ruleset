@@ -90,3 +90,29 @@ payload:
   # 未知广告
   - '+.xdrig.com'
   - '+.getui.com'
+
+  # 反诈
+  # DOMAIN-KEYWORD
+  - '*gjfzpt*'
+  - '*chanct*'
+  - '+.ifcert.cn'
+
+  - '*fzlm*'
+  - '*fqzpt*'
+  - '+.fanzha.org.cn'
+  - '+.hicore-auth.com'
+  - '+.hei-tong.com'
+  - '+.loongteam.com'
+  - '+.cert.org.cn'
+  - '+.ifcert.com'
+  - '+.ifcert.org.cn'
+  - '+.cnvd.org.cn'
+  - '+.anva.org.cn'
+  - '+.ics-cert.org.cn'
+  - '+.certlab.org'
+  - '+.china-bestmind.com'
+  - '+.i-bestmind.com'
+  - '+.t-bestmind.com'
+  - '+.himindtech.com'
+  - '+.fhss.com.cn'
+  - '+.hailiangyun.cn'
