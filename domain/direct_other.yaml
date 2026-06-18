@@ -27,3 +27,9 @@ payload:
   - '+.immersivetranslate.com'
 
   - 'flymux.com'
+
+  # LinuxDo 邀请
+  - 'invite.linuxdo.org'
+
+  # AnyRouter 国内端点
+  - 'a-ocnfniawgw.cn-shanghai.fcapp.run'
