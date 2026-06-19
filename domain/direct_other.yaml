@@ -33,3 +33,4 @@ payload:
 
   # AnyRouter 国内端点
   - 'a-ocnfniawgw.cn-shanghai.fcapp.run'
+  - '+.anyrouter.top'
