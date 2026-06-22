@@ -6,17 +6,6 @@ payload:
   - '+.linux.do'
   - '+.laosu.ml'
 
-  # DuckDuckGo
-  - '+.duckduckgo.com'
-
-  # Discord
-  - "+.discord.com"
-  - "+.discord.gg"
-  - "+.discord.media"
-  - "+.discordapp.com"
-  - "+.discordapp.net"
-  - "+.discordstatus.com"
-
   # Google Play
   # - '+.googleapis.cn'
   # - '+.xn--ngstr-lra8j.com'
