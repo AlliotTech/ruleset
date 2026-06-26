@@ -30,3 +30,6 @@ payload:
 
   # LinuxDo 邀请
   - 'invite.linuxdo.org'
+
+  # 仁魔鼠标驱动
+  - '+.rawmtech.com'
