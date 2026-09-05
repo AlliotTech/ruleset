@@ -34,3 +34,6 @@ payload:
 
   # 仁魔鼠标驱动
   - '+.rawmtech.com'
+
+  # 阿里医生
+  - '+.ali-doctor.com'
