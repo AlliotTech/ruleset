@@ -21,6 +21,7 @@ payload:
 
   # AI遥测
   - 'metrics.cursor.sh'
+  - 'repo42.cursor.sh'
 
   # 运营商一键登录
   # 中国移动
