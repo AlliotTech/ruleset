@@ -19,6 +19,9 @@ payload:
   # lobechat遥测
   - 'umami.lobehub-inc.cn'
 
+  # AI遥测
+  - 'metrics.cursor.sh'
+
   # 运营商一键登录
   # 中国移动
   - 'config.cmpassport.com'
